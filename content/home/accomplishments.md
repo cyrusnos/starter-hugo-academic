@@ -3,6 +3,7 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: accomplishments
 
+
 # This file represents a page section.
 headless: true
 
@@ -51,3 +52,4 @@ item:
 design:
   columns: '2' 
 ---
+
